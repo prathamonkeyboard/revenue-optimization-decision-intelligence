@@ -1,6 +1,10 @@
-# 📊 Revenue Optimization & Decision Intelligence System
+Status: Completed  
+Type: End-to-End Decision Intelligence System  
+Domain: Revenue Optimization & Risk Analytics  
 
-## 🚀 Project Overview
+#  Revenue Optimization & Decision Intelligence System
+
+##  Project Overview
 
 This project is a full-stack, portfolio-grade **Business Analytics + Decision Intelligence system** that transforms raw transactional data into **business decisions, risk strategies, and revenue optimization policies**.
 
@@ -20,7 +24,7 @@ Data → Insights → Modeling → Risk → Decisions → Strategy → Policy �
 
 ---
 
-## 🧠 Core Philosophy
+##  Core Philosophy
 
 > The goal is not prediction accuracy.
 > The goal is **better business decisions**.
@@ -29,7 +33,7 @@ This project reframes machine learning as a **decision support system**, not a m
 
 ---
 
-## 🗂 Project Structure
+##  Project Structure
 
 ```
 revenue-optimization-project/
@@ -43,7 +47,7 @@ revenue-optimization-project/
 
 ---
 
-## 📘 Notebook Breakdown
+##  Notebook Breakdown
 
 ### 01_data_pipeline.ipynb
 
@@ -97,7 +101,7 @@ Outcome: Business decision system.
 
 ---
 
-## 🧩 System Architecture
+## System Architecture
 
 ```
 Raw Data
@@ -121,7 +125,7 @@ Business Optimization
 
 ---
 
-## 🧠 Decision Intelligence Features
+##  Decision Intelligence Features
 
 ### Risk Scoring
 
@@ -199,7 +203,7 @@ This IS focused on:
 
 ---
 
-## 🎯 Skills Demonstrated
+##  Skills Demonstrated
 
 * Data Engineering
 * Business Analytics
@@ -215,7 +219,7 @@ This IS focused on:
 
 ---
 
-## 🏁 Project Status
+##  Project Status
 
 ✅ Data Pipeline Built
 ✅ Business EDA Completed
@@ -229,7 +233,7 @@ This IS focused on:
 
 ---
 
-## 👤 Author
+##  Author
 
 **Pratham Sharma**
 Focus: Data Analytics • Decision Intelligence • Business Strategy • Applied Modeling
